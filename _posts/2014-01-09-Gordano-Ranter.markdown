@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "The Gordano Ranter"
+date:   2014-01-09 08:00:00
+categories: Music
+---
+
 Sometimes an experience can take hold of you, sweep you through the ticks of time, and leave you with an indescribable sense that everything is good in the world.
 
 For me, music is one of those powerful forces that takes hold and transports me into new worlds of delight and fear and joy and pain. It's almost impossble to describe the sensations that are at the tip of the iceberg of experience that is music, however, impossiblity has never been one to stop me before and so, I shall at least try.
