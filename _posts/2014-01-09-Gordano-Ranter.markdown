@@ -16,7 +16,7 @@ It can be hard to describe an indescribable experience so bare with me and I'll 
 
 [Insert link to tune or video here]
 
-###Stop for a moment and imagine this.
+###Stop for a moment and imagine this
 
 It's dark, really dark. The kind of dark that only those who've never seen the light could understand. The kind of dark that exists before the dawn of the universe. Which is apt because that's where our journey begins, right back at the start of the universe.
 
