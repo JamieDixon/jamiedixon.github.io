@@ -19,8 +19,8 @@ There have been countless times that a piece of music has moved me to tears and 
 
 To complement the above there's also the point about being able to write. I'd like to be able to write well and I'm sure that writing regularly with a certain amount of accountability (That'll be you, dear reader), will spur me on to learn how to write and express ideas in something other than a torrent of barely comprehensible spaggetti.
 
-The plan, then, is to start writing on my journey to work. I spend an hour a day on the train and usually occupy that time with reading or playing sudoku (a word I can't actually say correctly most of the itme).
-I'll still read (currently half way through Partchett's Lords and Ladies and planning to complete his Discworld series before realising I was always a character, not an observer as I initially thought).
+The plan, then, is to start writing on my journey to work. I spend an hour a day on the train and usually occupy that time with reading or playing sudoku (a word I can't actually say correctly most of the time).
+I'm currently half way through Pratchett's Lords and Ladies and planning to complete his Discworld series before realising I was always a character, not an observer as I initially thought, so I'll still keep up the reading.
 
 The laptop that I've been using for the past 4 years ia almost at its end however, as luck should have it, I recently bought a MacBook from a friend. It seems like the right thing for a budding writer to do, sitting on a train with a Mac of some kind, whimsically annotating the goings on of an imagined landscape.
 
