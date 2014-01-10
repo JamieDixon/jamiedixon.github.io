@@ -8,7 +8,8 @@
 body,
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', Helvetica, sans-serif;
-  color: #555;
+  color: #333;
+  line-height: 1.6;
 }
 
 header{
@@ -16,23 +17,34 @@ header{
 }
 header .title{
   font-size: 3em;
-  font-family: "Angel Tears", Helvetica;
+  font-family: "Angel Tears", Helvetica, sans-serif;
 }
 
 main{
   margin: 0 auto;
-  line-height: 1.9em;
-  padding: 5%;
 }
 
 main p{
-  margin-top: 30px;
-  
-  font-size: 1.3em;
+  margin-top: 20px;
+  font-size: 1.2em;
+  text-align: justify;
+  hyphens: auto;
+}
+
+main .post p:first-child:first-letter{
+  font-size: 8em;
+  font-family: "Angel Tears", serif;
+  line-height: 0.5em;
+  color: #428bca;
+  vertical-align: text-bottom;
 }
 
 @media (min-width: 50em){
   header .title{
-    font-size: 8em;
+    font-size: 9em;
+  }
+
+  main{
+    width: 45%;
   }
 }
