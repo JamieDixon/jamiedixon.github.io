@@ -16,17 +16,18 @@ header{
   text-align:center;
 }
 header .title{
-  font-size: 3em;
+  font-size: 4em;
   font-family: "Angel Tears", Helvetica, sans-serif;
 }
 
 main{
   margin: 0 auto;
+  padding: 15px;
 }
 
 main p{
   margin-top: 20px;
-  font-size: 1.2em;
+  font-size: 100%;
   text-align: justify;
   hyphens: auto;
 }
@@ -39,12 +40,41 @@ main .post p:first-child:first-letter{
   vertical-align: text-bottom;
 }
 
+/* iPads (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) {
+/* Styles */
+}
+
+/* iPads (landscape) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : landscape) {
+/* Styles */
+}
+
+@media (max-width: 649px)
+{
+  main{
+    width: auto;
+  }
+}
+
+@media (min-width: 650px)
+{
+  main{
+    width: 650px;
+  }
+}
+
 @media (min-width: 50em){
   header .title{
     font-size: 9em;
   }
 
-  main{
-    width: 45%;
+  main p{
+    font-size: 1.2em;
   }
 }
