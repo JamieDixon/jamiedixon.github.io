@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Outdoor Man"
+date:   2014-01-13 08:00:00
+---
+
 I've always admired the idea of being an ourdoor man.
 
 The man who, come the weekend, has planned, organised and is about to execute, a master plan of outdoor persuit and provility.
