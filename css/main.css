@@ -23,16 +23,17 @@ header .title{
 main{
   margin: 0 auto;
   padding: 15px;
+  text-align: justify;
 }
 
 main p{
   margin-top: 20px;
   font-size: 100%;
-  text-align: justify;
+  
   hyphens: auto;
 }
 
-main .post p:first-child:first-letter{
+main .post p:first-child::first-letter{
   font-size: 8em;
   font-family: "Angel Tears", serif;
   line-height: 0.5em;
