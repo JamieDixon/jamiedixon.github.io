@@ -4,7 +4,7 @@ title:  "Would you say you're straight?"
 date:   2014-01-10 17:40:00
 ---
 
-This was a question my sister asked me during a conversation about sexuality. My sister is what some might call "gay", after all, she is in a relationship with another woman.
+This was a question my sister asked me during a conversation about sexuality. My sister is what some might call gay, after all, she is in a relationship with another woman.
 
 If you ask her about that she'll tell you that being with a woman was something she knew, just a few years back, would never happen. She'd never fantasised about other women, never known something was different from a young age, and never even considered that falling in love with a woman was a posibility.
 
