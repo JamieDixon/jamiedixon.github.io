@@ -10,9 +10,9 @@ If you ask her about that she'll tell you that being with a woman was something 
 
 But that's exactly what happened. She fell in love with another human being and that human being is a woman.
 
-So she asked me "Would you say that you're straight?", and I faultered.
+So she asked me "Would you say that you're straight?", and I faltered.
 
-Did I faulter because I was holding something back? Perhaps trying to craft my answer so not to reval too much? I don't think so. That's not how it felt for me. What I felt was a person asking me where they fit in to the world, and how I identify them in relation to myself.
+Did I falter because I was holding something back? Perhaps trying to craft my answer so not to reval too much? I don't think so. That's not how it felt for me. What I felt was a person asking me where they fit in to the world, and how I identify them in relation to myself.
 
 I recall a conversation during a group discussion in London about how – in the English language especially – we tend to identify ourselves with emotions and circumstances. We say: 
 
@@ -28,7 +28,7 @@ And in our jobs we say
 
 To me that's a fascinating observation. How does the way in which we use language to describe how we feel or what we do, impact on who we think we are?
 
-I faultered because most of the time I don't say anything about my sexuality. It's not something that comes up all that often and when it does, I get to thinking about how our language might divide or bring us together.
+I faltered because most of the time I don't say anything about my sexuality. It's not something that comes up all that often and when it does, I get to thinking about how our language might divide or bring us together.
 
 There are many things we all do in this world and for me, one of those things is being in love with my girlfriend. I also like to eat Lasagne, play video games, and sleep a lot at weekends.
 I don't consider myself a lasagne eater or a weekend-sleeper-aloter and in the same way, I don't consider myself *straight*.
