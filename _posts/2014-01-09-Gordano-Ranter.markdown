@@ -14,9 +14,7 @@ They were the first act that I saw and, as it turned out, they were the most pow
 
 It can be hard to describe an indescribable experience so bare with me and I'll do my best to take you through this tune. I sugest you listen to the piece before reading my description here and I'm certain you experience will vary. It's usually best to have your own before diving into someone elses.
 
-[Insert link to tune or video here]
-
-###Stop for a moment and imagine this
+###Stop for a moment and imagine...
 
 It's dark, really dark. The kind of dark that only those who've never seen the light could understand. The kind of dark that exists before the dawn of the universe. Which is apt because that's where our journey begins, right back at the start of the universe.
 
