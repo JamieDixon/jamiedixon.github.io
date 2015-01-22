@@ -43,6 +43,6 @@ and so on.
 If you've had some experience writing these kind of chained function calls before this is probably an easy one. It took me about 45 minutes to get there with it and the journey was pleasantly exhilarating.
 You can give it a go too at http://www.codewars.com/kata/a-chain-adding-function/javascript
 
-For the next piece in this series I'll focus on something more specific with much more code and examples. If there's something you want to know about Functional Programming then asking me questions is a great way to help me improve. I might even add and article about it so hit me up on twitter https://twitter.com/jamiedixon or drop me a note to jamie [at] offthescript.com
+For the next piece in this series I'll focus on something more specific with much more code and examples. If there's something you want to know about Functional Programming then asking me questions is a great way to help me improve. I might even add an article about it so hit me up on twitter https://twitter.com/jamiedixon or drop me a note to jamie [at] offthescript.com
 
 Until next time.
