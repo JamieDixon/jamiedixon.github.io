@@ -6,7 +6,7 @@ date:   2015-01-22 12:00:00
 
 The science and art of choosing names for things is a well known conundrum. Some even say it's one of the few hard things in computer science. But then most of us who program wouldn't call ourselves scientists anyhow.
 
-Words that have dual meanings are reserved a special place in my heart. I imagine people choosing ambiguous words with smirks on their faces in much the same was as a small boy grins as he eats his newly acquired bag of Haribo behind an old oak tree, far from the thieving fingers of his friends.
+Words that have dual meanings are reserved a special place in my heart. I imagine people choosing ambiguous words with smirks on their faces in much the same way as a small boy grins as he eats his newly acquired bag of Haribo behind an old oak tree, far from the thieving fingers of his friends.
 
 The Functional in Functional Programming is one of those delicious words. A word that in one breath conveys the orientation (another cutely ambiguous word) of the language whilst also implying that there are other, non functional, or dysfunctional languages. It gives me a warm feeling when I read those words. Like being privy to an inside joke amid a sea of straight facedness.
 
