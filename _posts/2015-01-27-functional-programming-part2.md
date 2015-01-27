@@ -22,22 +22,22 @@ Let's start with a real-world JavaScript example based on some SVG work I did re
 
 ```
 function getSvgShapes(fragment) { // Get some shapes out of an SVG fragment
-return fragment.selectAll('circle, rect, path');
+   return fragment.selectAll('circle, rect, path');
 }
 
 function getSvgShapeColours(shapes) { // Grab the fill colour of each shape
-return shapes.map(function (shape) {
-return shape.css('fill');
-});
+   return shapes.map(function (shape) {
+      return shape.css('fill');
+   });
 }
 
 function distinct(items) { // Filter a collection for distinct values
-var seen = [];
-return items.filter(function (item) {
-var isSeen = seen.indexOf(item) > -1;
-seen.push(item);
-return !isSeen;
-});
+   var seen = [];
+   return items.filter(function (item) {
+     var isSeen = seen.indexOf(item) > -1;
+     seen.push(item);
+     return !isSeen;
+   });
 }
 
 ```
@@ -69,7 +69,7 @@ A named composition is what we get when we take a bunch of functions and we comp
 
 ```
 function distinctShapeColours(fragment) {
-return distinct(getSvgShapeColours(getSvgShapes(fragment)));
+   return distinct(getSvgShapeColours(getSvgShapes(fragment)));
 }
 ```
 
