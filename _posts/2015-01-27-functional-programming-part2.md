@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Functional Programming for the dysfunctional mind - Part II"
+title:  "Functional Programming for the dysfunctional mind - Part II - Composition"
 date:   2015-01-22 12:00:00
 ---
 
