@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Functional Programming for the dysfunctional mind - Part II - Composition"
-date:   2015-01-22 12:00:00
+date:   2015-01-27 12:00:00
 ---
 
 In [Part I of Functional Programming for the dysfunctional mind](/2015/01/22/functional-programming-part1.html)  I introduced the series and talked a little about some of the new learnings I've discovered as I delve into the world of Functional Programming.
